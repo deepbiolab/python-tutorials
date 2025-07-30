@@ -18,7 +18,7 @@ HTML 或*超文本标记语言*是网页的源代码。HTML 文档是描述页�
 <div id="image-gallery">
   <p>
     This is my cat!
-    <img src="cat.jpg" alt="Meow!">
+    <img src="" alt="Meow!">
     <a href="https://en.wikipedia.org/wiki/Cat">Learn more about cats!</a>
   </p>
 </div>
